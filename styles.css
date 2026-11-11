@@ -3,3 +3,56 @@
   padding: 0;
   box-sizing: border-box;
 }
+
+body {
+  color: #38251f;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  color: #633b32;
+}
+
+a:link {
+  color: #164e50;
+  text-decoration: none;
+  font-size: 25px;
+}
+
+a:visited {
+  color: #563b70;
+  text-decoration: solid;
+}
+
+a:hover {
+  color: #ffffff;
+}
+
+a:active {
+  color: #633b32;
+}
+
+.logo {
+  margin: 20px auto;
+  width: 500px;
+  display: block;
+}
+
+.container {
+  background-color: #e9967a;
+  width: 600px;
+  height: auto;
+  padding: 20px;
+  margin: 20px auto;
+}
+
+.title {
+  font-size: 42px;
+  margin-bottom: 20px;
+  padding: 4px;
+  text-align: center;
+}
